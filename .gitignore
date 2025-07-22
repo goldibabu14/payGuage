@@ -1,0 +1,17 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore model files (optional if you want to keep them local only)
+*.pkl
+
+# Ignore environment/virtualenv folders
+.env/
+venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit logs
+.streamlit/config.toml
