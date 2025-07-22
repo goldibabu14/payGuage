@@ -34,4 +34,9 @@ Payguage is a machine learning web app that predicts whether a person's income e
 
 ---
 
+## Live Demo
+
+Try out the live Salary Predictor app: [PayGuage on Streamlit](https://payguage.streamlit.app/)
+
+
 
